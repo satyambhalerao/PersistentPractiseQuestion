@@ -1,0 +1,15 @@
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\bin\Debug\net6.0\Problem Statment 1.exe
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\bin\Debug\net6.0\Problem Statment 1.deps.json
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\bin\Debug\net6.0\Problem Statment 1.runtimeconfig.json
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\bin\Debug\net6.0\Problem Statment 1.dll
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\bin\Debug\net6.0\Problem Statment 1.pdb
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\obj\Debug\net6.0\Problem Statment 1.csproj.AssemblyReference.cache
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\obj\Debug\net6.0\Problem Statment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\obj\Debug\net6.0\Problem Statment 1.AssemblyInfoInputs.cache
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\obj\Debug\net6.0\Problem Statment 1.AssemblyInfo.cs
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\obj\Debug\net6.0\Problem Statment 1.csproj.CoreCompileInputs.cache
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\obj\Debug\net6.0\Problem Statment 1.dll
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\obj\Debug\net6.0\refint\Problem Statment 1.dll
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\obj\Debug\net6.0\Problem Statment 1.pdb
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\obj\Debug\net6.0\Problem Statment 1.genruntimeconfig.cache
+D:\Persistent\traning\Practise question\Problem Statment 1\Problem Statment 1\obj\Debug\net6.0\ref\Problem Statment 1.dll
