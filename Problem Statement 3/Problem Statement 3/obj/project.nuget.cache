@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FnmJVkEcMQjkm5Hh98bknhhkj3J5MZkcBahMeGgKc8N4LpgzxSu+JN8Z1QrON6+kgjUdZ3SCcEDlCsla9rrexQ==",
+  "success": true,
+  "projectFilePath": "D:\\Persistent\\traning\\Practise question\\Problem Statement 3\\Problem Statement 3\\Problem Statement 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\satya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\satya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\satya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\satya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
